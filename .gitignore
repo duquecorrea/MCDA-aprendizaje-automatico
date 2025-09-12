@@ -62,11 +62,7 @@ coverage.xml
 .AppleDouble
 .LSOverride
 
-# Data files (optional - keep if needed for course)
-data/*.csv
-data/*.tsv
-data/*.json
-data/*.xlsx
-
 # Logs
 *.log
+
+labs_solutions/

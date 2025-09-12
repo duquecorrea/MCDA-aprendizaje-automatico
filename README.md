@@ -1,7 +1,6 @@
 # SI7009 – Aprendizaje Automático - 2025 2
 
-Repositorio del curso de **Maestría en Ciencias de los Datos y Analítica (EAFIT)**.  
-Aquí encontrarás el material de apoyo, notebooks, guías de laboratorio y ejemplos computacionales para trabajar los temas del curso:
+Repositorio del curso de **Maestría en Ciencias de los Datos y Analítica (EAFIT)**. Aquí encontrarás el material de apoyo, notebooks, guías de laboratorio y ejemplos computacionales para trabajar los temas del curso:
 
 - Fundamentos del Aprendizaje Automático
 - Aprendizaje Supervisado (regresión, clasificación, ensamble, regularización, tuning de hiperparámetros)
