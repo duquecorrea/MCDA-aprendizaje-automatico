@@ -3,6 +3,7 @@
 
 numpy
 pandas
+pingouin
 scikit-learn
 matplotlib
 seaborn
